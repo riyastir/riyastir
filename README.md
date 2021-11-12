@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Full Stack Developer working in Kuala Lumpur, Malaysia
 <!--
 **riyastir/riyastir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
