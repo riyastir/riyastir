@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mohamedriyaskp/im-a-cm-b.svg)](https://www.codementor.io/@mohamedriyaskp?refer=badge)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mohamedriyaskp/contact-me.svg)](https://www.codementor.io/@mohamedriyaskp?refer=badge)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mohamedriyaskp/book-session.svg)](https://www.codementor.io/@mohamedriyaskp?refer=badge)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mohamedriyaskp/get-help.svg)](https://www.codementor.io/@mohamedriyaskp?refer=badge)
